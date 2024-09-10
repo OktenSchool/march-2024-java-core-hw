@@ -1,4 +1,4 @@
-package src.hw2.task4;
+package hw2.task4;
 
 public class Skill {
     private String title;

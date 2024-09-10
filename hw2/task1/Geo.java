@@ -1,4 +1,4 @@
-package src.hw2.task1;
+package hw2.task1;
 
 public class Geo {
     private String lat;

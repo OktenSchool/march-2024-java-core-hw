@@ -1,4 +1,4 @@
-package src.hw2.task1;
+package hw2.task1;
 
 public class Address {
     private String street;

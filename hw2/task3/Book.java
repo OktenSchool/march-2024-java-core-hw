@@ -1,4 +1,4 @@
-package src.hw2.task3;
+package hw2.task3;
 
 public class Book extends Papyrus{
     private int pages;

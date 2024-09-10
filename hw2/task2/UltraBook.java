@@ -1,4 +1,4 @@
-package src.hw2.task2;
+package hw2.task2;
 
 public class UltraBook extends Laptop{
     private int thickness;
