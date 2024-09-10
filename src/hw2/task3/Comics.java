@@ -1,4 +1,4 @@
-package hw2.task3;
+package src.hw2.task3;
 
 public class Comics extends Book{
     private String author;

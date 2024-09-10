@@ -1,4 +1,4 @@
-package hw2.task1;
+package src.hw2.task1;
 
 public class User {
     private String name;

@@ -1,4 +1,4 @@
-package hw2.task3;
+package src.hw2.task3;
 
 public class Magazine extends Book{
     private double thickness;

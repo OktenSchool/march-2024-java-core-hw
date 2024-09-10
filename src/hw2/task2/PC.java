@@ -1,4 +1,4 @@
-package hw2.task2;
+package src.hw2.task2;
 
 public class PC {
     private int CPUs;
